@@ -26,7 +26,8 @@
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
-<a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" width="50" height="50"/> </a></p>
+<a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" width="50" height="50"/> </a>
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" width="50" height="50"/> </a></p>
 
 
 <!-- <h3 align="left">Connect with me:</h3>
@@ -35,6 +36,6 @@
 </p> -->
 
 
-- 📫 How to reach me **jagannath.majhi@cbnits.com**
+- 📫 How to reach me **jagannath.majhi@cloud.cbnits.com**
 
 <h4>&nbsp &nbsp Thank You</h4>
